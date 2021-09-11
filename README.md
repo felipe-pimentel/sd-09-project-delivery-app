@@ -28,7 +28,7 @@ Todo o código que é de nossa autoria está disponibilizado nas pastas ```/fron
 
   Sua equipe, que já possui uma boa experiência com desenvolvimento, em pouco tempo apresentou um [protótipo](https://www.figma.com/file/cNKu41RhnPIgNqrbMTzmUI/Delivery-App-new-trybeer?node-id=0%3A1) e um [Diagrama de ER](./assets/readme/eer.png) conforme imagem:
 
-  <img src="/assets/readme/eer.png" />
+  <img src="/assets/readme/eer.png" alt="Diagrama de ER" />
 
   A ideia da sua equipe já pressupõe alguma escalabilidade, dado que foram estabelecidas algumas entidades genéricas no banco de dados e componentização no front-end, para que, caso o sistema cresça, não seja muito difícil mudar e ampliar essa estrutura.
 
