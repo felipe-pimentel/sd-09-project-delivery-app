@@ -6,7 +6,7 @@ Este é um fork de um projeto em grupo que foi desenvolvido durante o curso de D
 
 Meu grupo também era composto pelos colegas [Luciano Lodi](https://github.com/lrlodi), [Marcus Lima Witthoeft](https://github.com/marcusWittho) e [Antonio Arieiro Jr](https://github.com/antonioarieiro).
 
-Todo o código que é de nossa autoria está disponibilizado nas pastas ```/front-end/src``` e ```/back-end/src```. **Todo código além dos encontrados nessas pastas citadas são de autoria do time de instrução da Trybe.**
+Todo o código que é de nossa autoria está disponibilizado nas pastas ```/front-end``` e ```/back-end```. **Todo código além dos encontrados nessas pastas citadas são de autoria do time de instrução da Trybe.**
 
 ## Contexto do Projeto
 
@@ -46,7 +46,7 @@ Todo o código que é de nossa autoria está disponibilizado nas pastas ```/fron
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS logo" height=60>
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" alt="JavaScript logo" height=60>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="Axios logo" height=60>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="CSS logo" height=60>
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" alt="Figma logo" height=60>
   </p>
 </blockquote>
